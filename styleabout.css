@@ -97,6 +97,7 @@ div
 }
 .card
 {
+    border-radius: 25px;
     padding: 0px;
     height: 100%;
 }
